@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mostafa Albelbeisi
-- 👀 I’m interested in Readin, Games, and programming
+- 👀 I’m interested in Reading, Games, and programming
 - 🌱 I’m currently learning Java & Python
 - 📫 How to reach me mostfabelbeisi@gmail.com
 
